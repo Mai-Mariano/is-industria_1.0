@@ -1,0 +1,445 @@
+{
+  "brand": "IS Industry",
+  "nav": {
+    "quem": "About Us",
+    "certificados": "Certificates",
+    "servicos": "Services",
+    "mapa": "Where We Operate",
+    "noticias": "News",
+    "carreiras": "Careers",
+    "compliance": "Reporting channel"
+  },
+  "cta": "Contact IS",
+  "tagline": "Engineering, manufacturing and services for energy and industry.",
+  "colunas": { "empresa": "Company", "recursos": "Resources", "contato": "Contact" },
+
+  "links": {
+    "sobre": "About",
+    "servicos": "Services",
+    "noticias": "News",
+    "certificados": "Certificates",
+    "carreiras": "Careers",
+    "compliance": "Reporting channel",
+    "privacidade": "Privacy Policy"
+  },
+
+  "footer": {
+    "complianceCta": "Reporting channel",
+    "complianceLink": "Reporting channel"
+  },
+
+  "endereco": "São José dos Pinhais – Paraná – Brazil",
+  "copy": "IS Industry. All rights reserved.",
+  "isoAlt": "ISO Certification",
+  "esgAlt": "ESG Seal",
+  "social": { "follow": "Follow IS", "linkedin": "LinkedIn", "instagram": "Instagram" },
+  "lang": { "pt": "Português (Brasil)", "en": "English (US)", "es": "Español" },
+
+  "home": {
+    "hero": {
+      "kicker": "20 years of IS Industry",
+      "h1Start": "Creating a",
+      "h1Highlight": "sustainable",
+      "h1End": "future with engineering and clean energy.",
+      "lead": "Solutions in manufacturing, painting, certifications, and field services for wind and solar.",
+      "btnQuote": "Request a quote",
+      "btnServices": "View services",
+      "iso": { "badge": "Quality", "title": "ISO 9001 / ESG" }
+    },
+    "kpis": {
+      "projects": "Projects delivered",
+      "availability": "Average availability",
+      "slas": "SLAs met",
+      "years": "Years in the market"
+    },
+    "clients": ["Client A", "Client B", "Client C", "Client D"],
+    "services": {
+      "badge": "Services",
+      "title": "Our end-to-end solutions",
+      "subtitle": "From manufacturing to operations, focused on safety and efficiency.",
+      "viewAll": "See all services",
+      "cards": {
+        "towers": { "title": "Anemometric / solarimetric towers", "chip": "Manufacturing & Commissioning" },
+        "painting": { "title": "Industrial Painting", "chip": "ISO 12944" },
+        "equipment": { "title": "Equipment & Measnet Calibration", "chip": "Sensors & Data" },
+        "telemetry": { "title": "Telemetry & Integration", "chip": "SCADA • Loggers • Networks" }
+      }
+    },
+    "results": {
+      "availability": { "title": "Average availability", "text": "in wind portfolios operated by IS." },
+      "opex": { "title": "OPEX reduction", "text": "after predictive maintenance." },
+      "slas": { "title": "SLAs met", "text": "with 24/7 support." }
+    },
+    "cta": {
+      "title": "Shall we boost your project?",
+      "text": "Talk to our technical team or see where we operate and how we mobilize people and logistics.",
+      "btnContact": "Contact IS",
+      "btnWhere": "Where we operate"
+    }
+  },
+
+  "about": {
+    "hero": {
+      "badge": "About Us",
+      "h1Start": "IS Metal Industry — precision, engineering and trust in",
+      "h1Highlight": "renewable energy",
+      "lead": "We were born to manufacture measurement towers and deliver high-precision solutions for wind and solar. Today we operate end-to-end — from manufacturing to field operations — with certified processes.",
+      "cta": "Contact IS"
+    },
+    "story": {
+      "title": "Our story",
+      "imageAlt": "Our facility and operations",
+      "p1": "IS Metal Industry was founded with a clear purpose: <strong>to manufacture towers for wind measurement campaigns</strong> and provide the renewable energy market with high-precision, reliable solutions.",
+      "p2": "From the beginning, our structures were <strong>designed for data performance</strong>, incorporating engineering concepts to <strong>reduce interferences caused by wind vortices</strong>.",
+      "p3": "Over nearly two decades, we have grown with the wind and solar sectors. We <strong>manufacture guyed and self-supporting towers</strong>, perform <strong>instrumentation, commissioning and maintenance</strong>, and cover the full cycle of <strong>anemometric and solarimetric data monitoring and acquisition</strong>.",
+      "p4": "With <strong>ISO 9001-certified processes</strong> and practices aligned with <strong>ESG</strong> principles, we remain committed to a more efficient and sustainable energy sector."
+    },
+    "pillars": {
+      "title": "Our pillars",
+      "mission": { "title": "Mission", "text": "To develop, produce and market solutions and innovations in the fabrication, assembly, maintenance, dismantling and controlled demolition of metal structures, seeking to serve customers with excellence and quality, and guaranteeing the safety of all stakeholders in the business." },
+      "vision": { "title": "Vision", "text": "To be a sustainable and economically viable company, recognized throughout the country as a leading provider of solutions for various types of metal structures, serving clients with excellence in the services provided." },
+      "values": { "title": "Values", "text": "Commitment, Customer Satisfaction, Innovation, Quality, Ethics, Respect, Transparency, Safety, Integrity." }
+    },
+    "method": {
+      "badge": "How we work",
+      "title": "The IS way to ensure trust",
+      "footerTitle": "IS Method",
+      "footerText": "Technique applied in the office, rigor in the process and practice in the field."
+    },
+    "cards": {
+      "design": { "title": "We design responsibly", "text": "Drawings and specifications reviewed by our ISO 9001-certified Management System." },
+      "factory": { "title": "We produce with control", "text": "Shop-floor inspections and non-destructive testing validate each part before shipment." },
+      "paint": { "title": "We protect with criteria", "text": "Industrial painting per ISO 12944, with scheduled inspections to ensure durability." },
+      "measure": { "title": "Measurement and communication integration", "text": "\nSupply of meteorological equipment and fiber optic infrastructure with Modbus TCP/IP protocols." },
+      "integrate": { "title": "We integrate without noise", "text": "SCADA integration, data logger setup and structured cabling for reliable readings." },
+      "field": { "title": "We execute in the field with standards", "text": "Trained teams, our own fleet and 3 bases across Brazil." },
+      "compliance": { "title": "International compliance", "text": "Adapted documentation and service per local requirements." }
+    },
+    "numbers": {
+      "title": "Results in numbers",
+      "projects": "Projects delivered",
+      "availability": "Average availability",
+      "slas": "SLAs met",
+      "years": "Years in the market"
+    },
+    "timeline": {
+      "title": "Our trajectory",
+      "items": [
+        { "ano": "2006", "texto": "Start of manufacturing towers for anemometric campaigns." },
+        { "ano": "2012", "texto": "Expansion to field instrumentation and commissioning." },
+        { "ano": "2024", "texto": "ISO 9001 certification and SGI (IMS) consolidation." },
+        { "ano": "Today", "texto": "Full portfolio in wind and solar, with nationwide operations." }
+      ]
+    },
+    "team": {
+      "badge": "Our team",
+      "title": "People who make it happen",
+      "desc": "Get to know a little about our team.",
+      "roles": {
+        "opsDirector": "Executive Director",
+        "qualityEngineer": "Technical Director",
+        "fieldEngineerWind": "Telemetry Manager",
+        "fieldEngineerImplat": "Deployment Manager",
+        "paintCoordinator": "Telemetry Coordinator",
+        "projectsPMO": "Supplies",
+        "certificationReports": "Financial Manager",
+        "certificationReports1": "Quality Manager",
+        "certificationReports2": "Storekeeper"
+      }
+    },
+    "culture": {
+      "safety": { "title": "Safety & People", "text": "Care for the team, training, and safe operations." },
+      "quality": { "title": "Quality & IMS", "text": "Documented, traceable and auditable processes." },
+      "sustainability": { "title": "Sustainability", "text": "ESG practices and a focus on energy efficiency." }
+    },
+    "cta": {
+      "title": "Want to know more about IS?",
+      "text": "Talk to our team and receive technical and commercial information.",
+      "button": "Contact IS"
+    }
+  },
+
+  "certs": {
+    "hero": {
+      "badge": "Certifications & Compliance",
+      "title": "IMS certification in quality, environment and safety.",
+      "lead": "ISO 9001 • ESG-aligned practices — audited processes, traceability and digital dossiers per project."
+    },
+    "kpis": {
+      "approval": "approval rate",
+      "auditsPerYear": "audits/year",
+      "yearsSgi": "years with IMS"
+    },
+    "labels": { "certificate": "Certificate" },
+    "buttons": {
+      "preview": "Preview",
+      "openPdf": "Open PDF",
+      "download": "Download",
+      "openNewTab": "Open in new tab",
+      "close": "Close",
+      "seeCertificates": "See certificates"
+    },
+    "cards": {
+      "iso9001": { "name": "Quality Management" },
+      "esg": { "name": "Commitment to environmental, social and governance." }
+    },
+    "audits": {
+      "badge": "Audits & Recertifications",
+      "title": "Recent history",
+      "blurb": "Ongoing follow-up with action plans and recorded evidence.",
+      "items": [
+        { "year": "2025", "type": "ISO 9001 monitoring audit", "org": "Accredited body", "status": "Approved" },
+        { "year": "2024", "type": "ISO 9001 Certification Audit", "org": "Accredited body", "status": "Approved" }
+      ]
+    },
+    "faq": {
+      "title": "Dossiers & compliance — quick questions",
+      "subtitle": "How we provide evidence, which processes are covered, and how client audits work.",
+      "items": [
+        {
+          "q": "How do we provide digital dossiers?",
+          "a": "We deliver per-project dossiers (PDF) including material traceability, inspections, NDT, photo records and painting reports — all linked to the purchase/work order."
+        },
+        {
+          "q": "Which processes are covered by the certificates?",
+          "a": "Design & manufacturing, industrial painting, field instrumentation & commissioning, maintenance and supplier management — within our IMS."
+        },
+        {
+          "q": "Can clients conduct audits?",
+          "a": "Yes. We welcome client audits and technical visits, with action plans and follow-up until completion."
+        }
+      ]
+    },
+    "commitment": {
+      "title": "Our commitment",
+      "p1": "Compliance is more than a certificate on the wall: it’s procedure, evidence and continuous improvement. Every project receives a digital dossier with the records required for audits and governance.",
+      "bullets": [
+        "Traceability by batch, work order and project.",
+        "Photos, inspections, NDT and painting reports.",
+        "Document control and versioning."
+      ]
+    },
+    "cta": {
+      "title": "Need certificates or the technical dossier for a proposal?",
+      "text": "We send the required documents and evidence — with quick scope verification.",
+      "btnContact": "Talk to IS",
+      "btnCertificates": "See certificates"
+    }
+  },
+
+  "services": {
+    "hero": {
+      "badge": "Our Services",
+      "title": "Engineering that becomes reliable data.",
+      "lead": "Guyed/self-supporting towers, ISO 12944 painting, checklist-based instrumentation, SCADA integration and planned maintenance — all with traceability and quality dossiers."
+    },
+    "filters": { "all": "All", "allDesc": "See grouped below" },
+    "areas": {
+      "fabricacao": { "label": "Manufacturing", "desc": "Structures, painting, engineering" },
+      "campo": { "label": "Field & O&M", "desc": "Installation, commissioning, maintenance" },
+      "integracao": { "label": "Integration", "desc": "SCADA, data loggers, networks" },
+      "equipamentos": { "label": "Equipment", "desc": "Sensors, calibration, rental" }
+    },
+    "list": {
+      "towers": { "title": "Anemometric / solarimetric towers", "chip": "Manufacturing & Commissioning" },
+      "painting": { "title": "Industrial painting", "chip": "ISO 12944" },
+      "install": { "title": "Field installation & instrumentation", "chip": "Safe execution" },
+      "maintenance": { "title": "Preventive & corrective maintenance", "chip": "O&M" },
+      "telemetry": { "title": "Telemetry & Integration", "chip": "SCADA • Loggers • Networks" },
+      "equipment": { "title": "Equipment & Measnet Calibration", "chip": "Sensors & Data" }
+    }
+  },
+
+  "maps": {
+    "badge": "Where we operate",
+    "titleStart": "Nationwide coverage with",
+    "titleHighlight": "international presence",
+    "lead": "From north to south of Brazil — and beyond borders — IS delivers precise infrastructure. Bases in São José dos Pinhais (PR), Petrolina (PE) and Natal (RN), our own fleet and field technical teams. For international operations, we adapt documentation and deploy specialists with high-performance equipment.",
+    "btnContact": "Contact IS",
+    "btnSeeAreas": "See operating areas",
+    "statSLA": "SLAs met",
+    "statCoverage": "Coverage",
+    "statCoverageValue": "Brazil + LatAm + Europe",
+    "coverageTitle": "IS Coverage",
+    "coverageServed": "National and Latin American coverage. With our own teams!",
+    "legendBase": "Base",
+    "legendWork": "Worksite",
+    "legendClient": "Client",
+    "legendIntl": "International",
+    "intlNoteSuffix": "— adapted documentation and compliance.",
+    "nextStepBadge": "Next step",
+    "nextStepTitle": "Tell us the location and deadline — we’ll build the action plan.",
+    "nextStepText": "You’ll receive a mobilization schedule with costs and SLAs.",
+    "btnBriefing": "Send briefing",
+    "btnWhatsApp": "WhatsApp",
+    "waText": "Hello, I'd like to assess IS's coverage in this region: "
+  },
+
+  "contact": {
+    "hero": {
+      "eyebrow": "Get in touch",
+      "title": "Let’s talk — we’re here to help",
+      "lead": "Questions or feedback? Send us a message and we’ll reply within 24 hours."
+    },
+    "form": {
+      "name": "Full name",
+      "namePh": "Your name",
+      "email": "Email",
+      "emailPh": "you@company.com",
+      "message": "Message",
+      "messagePh": "Tell us how we can help",
+      "agreePrefix": "I agree to the ",
+      "agreeLink": "privacy policy",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "ok": "Message sent successfully!",
+      "error": "Failed to send. Please try again."
+    },
+    "cards": { "email": "Email", "phone": "Phone" },
+    "map": { "title": "How to get here", "open": "Open in Google Maps" },
+    "info": {
+      "email": "contato@isindustria.com.br",
+      "phone": "+55 (41) 3033-0160",
+      "address": "IS Indústria - R. Francisco Alves de Lima, 52 - Costeira, São José dos Pinhais - PR, 83015-510"
+    }
+  },
+
+  "careers": {
+    "hero": {
+      "badge": "Careers",
+      "title": "Build clean energy with us.",
+      "lead": "Practical, safe and collaborative team. We operate with certified processes (ISO 9001/14001/45001) and a focus on professional growth.",
+      "btnJobs": "View open roles",
+      "btnWhatsApp": "Chat on WhatsApp",
+      "whatsMsg": "Hi, I'd like to learn about IS job openings."
+    },
+    "perks": {
+      "badge": "Our way",
+      "title": "Safety, performance and continuous learning",
+      "security": { "title": "Safety first", "desc": "Procedures, checklists and training. Responsible work at heights." },
+      "agility": { "title": "Methodical speed", "desc": "Clear planning, lean execution and quality records at every step." },
+      "growth": { "title": "Real growth", "desc": "Pathways, certifications and opportunities for learning by doing." }
+    },
+    "jobs": {
+      "title": "Featured openings",
+      "countLabel": "openings",
+      "preview": "Preview",
+      "apply": "Apply",
+      "empty": "No positions posted at the moment.",
+      "talent": {
+        "text": "Didn’t find your area? Send your profile to the <b>Talent Pool</b> and tell us where you shine.",
+        "cta": "Submit résumé"
+      }
+    },
+    "form": {
+      "title": "Send your résumé",
+      "lead": "When you submit, we’ll open your email with the info prefilled. Attach the PDF résumé to the email before sending.",
+      "applyingPrefix": "Applying for:",
+      "namePh": "Your name",
+      "emailPh": "Your email",
+      "linkedinPh": "LinkedIn or portfolio",
+      "messagePh": "Message",
+      "filePh": "Select your résumé (PDF)",
+      "fileSelected": "{{name}} ",
+      "submit": "Send",
+      "whatsapp": "WhatsApp",
+      "whatsMsg": "Hello, I’ve sent my résumé and would like to talk about the openings.",
+      "sentBadge": "Message sent 🎯"
+    },
+    "modal": {
+      "fallbackTitle": "Role",
+      "requirementsTitle": "Requirements",
+      "applyCta": "I want to apply"
+    },
+    "mail": {
+      "subjectApply": "Application — {{title}}",
+      "subjectTalent": "Talent Pool — Application",
+      "talentRole": "Talent Pool",
+      "noMessage": "(no message)",
+      "body": "Hello,%0A%0AI’d like to apply for the role.%0A%0AName: {{nome}}%0AEmail: {{email}}%0ALinkedIn/Portfolio: {{linkedin}}%0ARole: {{vaga}}%0A%0AMessage:%0A{{msg}}%0A%0ANote: I will attach my résumé (PDF) before sending."
+    }
+  },
+
+  "compliance": {
+    "hero": {
+      "badge": "Reporting channel",
+      "title": "Send your report safely",
+      "lead": "This channel allows anonymous reporting. If you wish, provide your name and email so we can follow up."
+    },
+    "form": {
+      "subjectLabel": "Subject",
+      "subjectPh": "E.g.: Misconduct, conflict of interest, fraud…",
+      "messageLabel": "Report",
+      "messagePh": "Describe what happened with as much detail as possible (what, when, where, people involved, evidence).",
+      "nameLabel": "Name",
+      "namePh": "Your name (optional)",
+      "emailLabel": "Email",
+      "emailPh": "Your email (optional)",
+      "optional": "(optional)",
+      "anonymousNote": "If you want to remain anonymous, leave name and email blank.",
+      "submit": "Submit report",
+      "sending": "Sending…",
+      "ok": "Report sent successfully.",
+      "okWithProtocol": "Report sent successfully. Protocol: {{protocol}}",
+      "error": "Could not send. Please try again.",
+      "validation": {
+        "subjectMin": "Subject must be at least {{min}} characters.",
+        "messageMin": "Report must be at least {{min}} characters.",
+        "minBoth": "Subject (min. {{subjectMin}}) and Report (min. {{messageMin}}) are required.",
+        "counter": "{{current}}/{{min}}"
+      }
+    }
+  },
+  "privacy": {
+    "badge": "Privacy Policy",
+    "title": "Privacy and data protection",
+    "lead": "This Policy explains how we collect, use, and protect information on our website.",
+    "scope": "This applies to the IS Indústria website and the available forms.",
+
+    "cards": {
+      "data": {
+        "title": "Data we may collect",
+        "text": "We may collect data provided by you, such as your name, email, phone number, company, and the message you sent. In the Complaints/Compliance channel, submissions can be anonymous if you do not provide identification."
+      },
+      "security": {
+        "title": "Security",
+        "text": "We have adopted technical and organizational measures to protect information against unauthorized access, loss, or improper alteration."
+      },
+      "rights": {
+        "title": "Your rights",
+        "text": "You can request access to, correction of, updating, or deletion of personal data, in accordance with applicable law. To do so, please use the website's contact channel."
+      }
+    },
+
+    "details": {
+      "title": "Details",
+      "collect": {
+        "title": "What we collect",
+        "i1": "Data submitted by you in the forms (Contact Us, Work With Us and Whistleblowing/Compliance Channel).",
+        "i2": "Basic technical navigation information (where applicable), for operation and safety.",
+        "i3": "Cookie consent preferences (when enabled)."
+      },
+      "use": {
+        "title": "How we use",
+        "i1": "Respond to requests and provide support.",
+        "i2": "Forward communications necessary for service.",
+        "i3": "Improve the website and comply with legal obligations where applicable."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "p1": "We may use cookies to improve your experience, measure performance, and remember preferences. You can manage cookies via the consent banner and in your browser settings."
+      },
+      "share": {
+        "title": "Sharing",
+        "p1": "We do not sell your data. We may only share it when necessary for the operation of the service (e.g., email/infrastructure providers) or as required by law."
+      }
+    },
+
+    "notice": {
+      "title": "Updates to this Policy",
+      "text": "We may update this Policy periodically. We recommend reviewing this page to stay informed."
+    },
+
+    "footerNote": "Last updated: {{date}}"
+  }
+}

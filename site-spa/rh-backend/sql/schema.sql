@@ -1,0 +1,39 @@
+CREATE DATABASE IF NOT EXISTS is_site DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
+USE is_site;
+
+-- Tabela de Vagas
+CREATE TABLE IF NOT EXISTS jobs (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  status ENUM('rascunho','publicada','pausada') NOT NULL DEFAULT 'rascunho',
+  titulo VARCHAR(160) NOT NULL,
+  slug VARCHAR(180) NOT NULL UNIQUE,
+  localidade VARCHAR(160) NOT NULL,
+  tipo VARCHAR(60) NOT NULL,        -- CLT, Estágio, PJ...
+  modelo VARCHAR(60) NOT NULL,      -- Presencial, Híbrido, Remoto
+  salario VARCHAR(120) NULL,
+  resumo VARCHAR(240) NULL,
+  descricao_md MEDIUMTEXT NOT NULL,
+  requisitos_md MEDIUMTEXT NULL,
+  beneficios_md MEDIUMTEXT NULL,
+  dt_publicacao DATETIME NULL,
+  dt_expiracao DATE NULL,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  updated_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+-- Tabela de Notícias
+CREATE TABLE IF NOT EXISTS news (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  status ENUM('rascunho','publicada','pausada') NOT NULL DEFAULT 'rascunho',
+  title VARCHAR(200) NOT NULL,
+  slug VARCHAR(200) NOT NULL UNIQUE,
+  date DATE NOT NULL,
+  tag VARCHAR(60) NULL,
+  excerpt VARCHAR(300) NULL,
+  content_md MEDIUMTEXT NOT NULL,
+  image VARCHAR(500) NULL,
+  url VARCHAR(500) NULL,
+  dt_publicacao DATETIME NULL,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  updated_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);

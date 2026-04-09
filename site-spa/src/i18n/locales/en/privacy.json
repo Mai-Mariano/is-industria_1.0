@@ -1,0 +1,60 @@
+{
+  "badge": "Privacy & Data Protection",
+  "title": "Privacy Policy",
+  "lead": "This page explains how we collect, use and protect your information when using our website and forms.",
+  "lastUpdateLabel": "Last updated:",
+  "lastUpdateValue": "2026-02-24",
+  "scope": "Applies to website and forms",
+  "contactEmail": "contato@isindustria.com.br",
+  "contactCta": "Contact us",
+
+  "cards": {
+    "data": {
+      "title": "What we collect",
+      "text": "We collect data you voluntarily provide through forms (e.g., name, email, message, and attachments) and basic technical information (e.g., browser and visited pages) to improve the experience."
+    },
+    "security": {
+      "title": "How we protect",
+      "text": "We apply technical and organizational measures to protect your data against unauthorized access, alteration, disclosure, or destruction."
+    },
+    "rights": {
+      "title": "Your rights",
+      "text": "You may request confirmation of processing, access, correction, update, or deletion of data when applicable. You may also withdraw consent."
+    },
+    "contact": {
+      "title": "Privacy contact",
+      "text": "If you have questions or requests related to privacy, contact us via the email below."
+    }
+  },
+
+  "details": {
+    "title": "Processing details",
+    "collect": {
+      "title": "Collection",
+      "i1": "Data submitted through forms (Contact and Careers).",
+      "i2": "Uploaded files (e.g., PDF resume) when applicable.",
+      "i3": "Minimal technical data for operation and security."
+    },
+    "use": {
+      "title": "Purpose",
+      "i1": "Reply to messages and requests sent via the website.",
+      "i2": "Process job applications and contact candidates.",
+      "i3": "Maintain security, prevent abuse, and improve the service."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "p1": "We may use strictly necessary and/or performance cookies to improve navigation. You can manage cookies in your browser."
+    },
+    "share": {
+      "title": "Sharing",
+      "p1": "We do not sell your data. We may share it only when needed to operate the service (e.g., email providers) or due to legal obligations."
+    }
+  },
+
+  "notice": {
+    "title": "Important",
+    "text": "This policy is an informational summary and may be updated to reflect improvements, legal changes, or operational changes."
+  },
+
+  "footerNote": "By using this website, you agree to this Privacy Policy."
+}

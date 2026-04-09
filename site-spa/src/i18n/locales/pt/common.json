@@ -1,0 +1,372 @@
+{
+  "brand": "IS Indústria",
+  "nav": {
+    "quem": "Quem Somos",
+    "certificados": "Certificados",
+    "servicos": "Serviços",
+    "mapa": "Onde Atuamos",
+    "noticias": "Notícias",
+    "carreiras": "Trabalhe Conosco",
+    "compliance": "Compliance"
+  },
+  "cta": "Fale com a IS",
+  "tagline": "Engenharia, fabricação e serviços para energia e indústria.",
+  "colunas": { "empresa": "Empresa", "recursos": "Recursos", "contato": "Contato" },
+  "links": { "sobre": "Sobre", "servicos": "Serviços", "noticias": "Notícias", "certificados": "Certificados", "carreiras": "Carreiras" },
+  "endereco": "São José dos Pinhais – Paraná – Brasil",
+  "copy": "IS Indústria. Todos os direitos reservados.",
+  "isoAlt": "Certificação ISO",
+  "esgAlt": "Selo ESG",
+  "social": { "follow": "Siga a IS", "linkedin": "LinkedIn", "instagram": "Instagram" },
+  "lang": { "pt": "Português (Brasil)", "en": "English (US)", "es": "Español" },
+
+  "home": {
+    "hero": {
+      "kicker": "20 anos IS Indústria",
+      "h1Start": "Criando um futuro",
+      "h1Highlight": "sustentável",
+      "h1End": "com engenharia e energia limpa.",
+      "lead": "Soluções em fabricação, pintura, certificações e serviços de campo para eólica e solar.",
+      "btnQuote": "Solicitar proposta",
+      "btnServices": "Ver serviços",
+      "iso": { "badge": "Qualidade", "title": "ISO 9001 / ESG" }
+    },
+    "kpis": {
+      "projects": "Projetos concluídos",
+      "availability": "Disponibilidade média",
+      "slas": "SLAs cumpridos",
+      "years": "Anos de mercado"
+    },
+    "clients": ["Cliente A", "Cliente B", "Cliente C", "Cliente D"],
+    "services": {
+      "badge": "Serviços",
+      "title": "Nossas soluções de ponta a ponta",
+      "subtitle": "Da fabricação à operação, com foco em segurança e eficiência.",
+      "viewAll": "Ver todos os serviços",
+      "cards": {
+        "towers": { "title": "Torres anemométricas / solarimétricas", "chip": "Fabricação & Comissionamento" },
+        "painting": { "title": "Pintura Industrial", "chip": "ISO 12944" },
+        "equipment": { "title": "Equipamentos & Calibração Measnet", "chip": "Sensores & Dados" },
+        "telemetry": { "title": "Telemetria & Integração", "chip": "SCADA • Loggers • Redes" }
+      }
+    },
+    "results": {
+      "availability": { "title": "Disponibilidade média", "text": "em portfólios eólicos operados pela IS." },
+      "opex": { "title": "Redução de OPEX", "text": "após manutenção preditiva." },
+      "slas": { "title": "SLAs cumpridos", "text": "com suporte 24/7." }
+    },
+    "cta": {
+      "title": "Vamos impulsionar seu projeto?",
+      "text": "Fale com nosso time técnico ou veja onde atuamos e como mobilizamos equipe e logística.",
+      "btnContact": "Fale com a IS",
+      "btnWhere": "Onde atuamos"
+    }
+  },
+
+  "about": {
+    "hero": {
+      "badge": "Quem Somos",
+      "h1Start": "IS Indústria Metalúrgica — precisão, engenharia e confiança em",
+      "h1Highlight": "energia renovável",
+      "lead": "Nascemos para fabricar torres de medição e entregar soluções de alta precisão para eólica e solar. Hoje, atuamos de ponta a ponta — da fabricação à operação em campo — com processos certificados.",
+      "cta": "Fale com a IS"
+    },
+    "story": {
+      "title": "Nossa história",
+      "imageAlt": "Nossa unidade e operações",
+      "p1": "A <strong>IS Indústria Metalúrgica</strong> nasceu com um propósito claro: <strong>fabricar torres para campanhas de medição de vento</strong> e oferecer ao mercado de energias renováveis soluções de alta precisão e confiabilidade.",
+      "p2": "Desde o início, nossas estruturas foram <strong>projetadas com foco na performance dos dados</strong>, incorporando tecnologias e conceitos de engenharia pensados para <strong>reduzir interferências causadas pelos vórtices do vento</strong>.",
+      "p3": "Ao longo de quase duas décadas, evoluímos com o setor eólico e solar, ampliando nossa atuação. <strong>Fabricamos torres estaiadas e autoportantes</strong>, realizamos <strong>instrumentação, comissionamento e manutenção</strong>, e atuamos em todo o ciclo de <strong>monitoramento e aquisição de dados anemométricos e solarimétricos</strong>.",
+      "p4": "Com <strong>processos certificados ISO 9001</strong> e práticas alinhadas aos princípios <strong>ESG</strong>, seguimos comprometidos em apoiar um setor energético mais eficiente e sustentável."
+    },
+    "pillars": {
+      "title": "Nossos pilares",
+      "mission": { "title": "Missão", "text": "Desenvolver, produzir e comercializar soluções e inovações em estruturas metálicas, montagem e manutenção; desmontagem e derrubada controlada de torres anemométricas, com excelência e segurança." },
+      "vision": { "title": "Visão", "text": "Ser sustentável, economicamente viável e referência nacional em estruturas metálicas." },
+      "values": { "title": "Valores", "text": "Comprometimento · Satisfação do cliente · Inovação · Qualidade · Ética · Respeito · Transparência · Segurança · Integridade" }
+    },
+    "method": {
+      "badge": "Nossa forma de trabalhar",
+      "title": "Jeito IS de garantir confiança",
+      "footerTitle": "Método IS",
+      "footerText": "Técnica aplicada no escritório, rigor no processo e prática no campo."
+    },
+    "cards": {
+      "design": { "title": "Projetamos com responsabilidade", "text": "Desenhos e especificações revisados pelo nosso Sistema de Gestão certificado ISO 9001." },
+      "factory": { "title": "Produzimos com controle", "text": "Inspeções em oficina e ensaios não destrutivos validam cada peça antes da expedição." },
+      "paint": { "title": "Protegemos com critério", "text": "Pintura industrial conforme ISO 12944, com inspeções programadas para garantir durabilidade." },
+      "measure": { "title": "Medições com comparabilidade", "text": "Fornecimento de equipamentos e opção de calibração Measnet para assegurar comparabilidade." },
+      "integrate": { "title": "Integramos sem ruído", "text": "Integração ao SCADA, configuração de data loggers e cabeamento estruturado para leitura confiável." },
+      "field": { "title": "Executamos em campo com padrão", "text": "Equipes treinadas, frota própria e 3 bases pelo Brasil." },
+      "compliance": { "title": "Compliance internacional", "text": "Documentação adaptada e atendimento conforme exigência local." }
+    },
+    "numbers": {
+      "title": "Resultados em números",
+      "projects": "Projetos concluídos",
+      "availability": "Disponibilidade média",
+      "slas": "SLAs cumpridos",
+      "years": "Anos de mercado"
+    },
+    "timeline": {
+      "title": "Nossa trajetória",
+      "items": [
+        { "ano": "2006", "texto": "Início da fabricação de torres para campanhas anemométricas." },
+        { "ano": "2012", "texto": "Expansão para instrumentação e comissionamento em campo." },
+        { "ano": "2017", "texto": "Certificação ISO 9001 e consolidação do SGI." },
+        { "ano": "Hoje", "texto": "Portfólio completo em eólica e solar, com atuação nacional." }
+      ]
+    },
+    "team": {
+      "badge": "Nosso time",
+      "title": "Pessoas que fazem acontecer",
+      "desc": "Conheça um pouco da nossa equipe.",
+      "roles": {
+        "opsDirector": "Diretor Executivo",
+        "qualityEngineer": "Diretor Tecnico",
+        "fieldEngineerWind": "Gerente Telemetria",
+        "paintCoordinator": "Coord. de Telemetria",
+        "projectsPMO": "Suprimentos",
+        "certificationReports": "Gerente Financeiro",
+        "certificationReports1": "Gerente de Qualidade",
+        "certificationReports2": "Almoxarife"
+      }
+    },
+    "culture": {
+      "safety": { "title": "Segurança & Pessoas", "text": "Cuidado com o time, treinamentos e operação segura." },
+      "quality": { "title": "Qualidade & SGI", "text": "Processos documentados, rastreáveis e auditáveis." },
+      "sustainability": { "title": "Sustentabilidade", "text": "Práticas ESG e foco em eficiência energética." }
+    },
+    "cta": {
+      "title": "Quer saber mais sobre a IS?",
+      "text": "Converse com nosso time e receba informações técnicas e comerciais.",
+      "button": "Fale com a IS"
+    }
+  },
+
+  "certs": {
+    "hero": {
+      "badge": "Certificações & Conformidade",
+      "title": "SGI certificado para qualidade, meio ambiente e segurança.",
+      "lead": "ISO 9001 • Práticas alinhadas a ESG — processos auditados, rastreabilidade e dossiês digitais por projeto."
+    },
+    "kpis": {
+      "approval": "taxa de aprovação",
+      "auditsPerYear": "auditorias/ano",
+      "yearsSgi": "anos com SGI"
+    },
+    "labels": { "certificate": "Certificado" },
+    "buttons": {
+      "preview": "Preview",
+      "openPdf": "Abrir PDF",
+      "download": "Baixar",
+      "openNewTab": "Abrir em nova aba",
+      "close": "Fechar",
+      "seeCertificates": "Ver certificados"
+    },
+    "cards": {
+      "iso9001": { "name": "Gestão da Qualidade" },
+      "esg": { "name": "Compromisso ambiental, social e de governança." }
+    },
+    "audits": {
+      "badge": "Auditorias & Recertificações",
+      "title": "Histórico recente",
+      "blurb": "Acompanhamento contínuo com planos de ação e evidências registradas.",
+      "items": [
+        { "year": "2025", "type": "Recertificação", "org": "Organismo acreditado", "status": "Aprovado" },
+        { "year": "2024", "type": "Supervisão", "org": "Organismo acreditado", "status": "Aprovado" },
+        { "year": "2023", "type": "Supervisão", "org": "Organismo acreditado", "status": "Aprovado" }
+      ]
+    },
+    "faq": {
+      "title": "Dossiês e conformidade — perguntas rápidas",
+      "subtitle": "Como entregamos evidências, quais processos cobertos e como funcionam as auditorias do cliente.",
+      "items": [
+        {
+          "q": "Como disponibilizamos os dossiês digitais?",
+          "a": "Entregamos os dossiês por projeto (PDF), contendo rastreabilidade de materiais, inspeções, END, registros fotográficos e relatórios de pintura — tudo vinculado ao número do pedido/obra."
+        },
+        {
+          "q": "Os certificados cobrem quais processos?",
+          "a": "Projetos e fabricação, pintura industrial, instrumentação e comissionamento em campo, manutenção e gestão de fornecedores — dentro do nosso SGI."
+        },
+        {
+          "q": "É possível auditoria do cliente?",
+          "a": "Sim. Recebemos auditorias e visitas técnicas de clientes, com plano de ações e acompanhamento até a efetiva conclusão."
+        }
+      ]
+    },
+    "commitment": {
+      "title": "Nosso compromisso",
+      "p1": "Conformidade não é só certificado na parede: é procedimento, evidência e melhoria contínua. Cada projeto recebe dossiê digital com os registros necessários para auditorias e governança.",
+      "bullets": [
+        "Rastreabilidade por lote, OS e projeto.",
+        "Fotos, inspeções, END e relatórios de pintura.",
+        "Controle de documentos e versionamento."
+      ]
+    },
+    "cta": {
+      "title": "Precisa dos certificados ou do dossiê técnico para uma proposta?",
+      "text": "Enviamos os documentos e evidências necessárias — com verificação rápida de escopo.",
+      "btnContact": "Falar com a IS",
+      "btnCertificates": "Ver certificados"
+    }
+  },
+
+  "services": {
+    "hero": {
+      "badge": "Nossos Serviços",
+      "title": "Engenharia que vira dado confiável.",
+      "lead": "Torres estaiadas/autoportantes, pintura conforme ISO 12944, instrumentação com checklist, integração a SCADA e manutenção planejada — tudo com rastreabilidade e dossiê de qualidade."
+    },
+    "filters": { "all": "Todos", "allDesc": "Veja por grupos abaixo" },
+    "areas": {
+      "fabricacao": { "label": "Fabricação", "desc": "Estruturas, pintura, engenharia" },
+      "campo": { "label": "Campo & O&M", "desc": "Instalação, comissionamento, manutenção" },
+      "integracao": { "label": "Integração", "desc": "SCADA, data loggers, redes" },
+      "equipamentos": { "label": "Equipamentos", "desc": "Sensores, calibração, locação" }
+    },
+    "list": {
+      "towers": { "title": "Torres anemométricas / solarimétricas", "chip": "Fabricação & Comissionamento" },
+      "painting": { "title": "Pintura industrial", "chip": "ISO 12944" },
+      "install": { "title": "Instalação & instrumentação em campo", "chip": "Execução Segura" },
+      "maintenance": { "title": "Manutenção preventiva & corretiva", "chip": "O&M" },
+      "telemetry": { "title": "Telemetria & Integração", "chip": "SCADA • Loggers • Redes" },
+      "equipment": { "title": "Equipamentos & Calibração Measnet", "chip": "Sensores & Dados" }
+    }
+  },
+
+  "maps": {
+    "badge": "Onde atuamos",
+    "titleStart": "Cobertura nacional com",
+    "titleHighlight": "presença internacional",
+    "lead": "De Norte a Sul do Brasil, e além das fronteiras, a IS entrega estrutura com precisão. Bases em São José dos Pinhais (PR), Petrolina (PE) e Natal (RN), frota própria e equipe técnica em campo. Para operações internacionais, adaptamos documentação e levamos especialistas com equipamentos de alta performance.",
+    "btnContact": "Fale com a IS",
+    "btnSeeAreas": "Ver áreas de atuação",
+    "statSLA": "SLAs atendidos",
+    "statCoverage": "Cobertura",
+    "statCoverageValue": "Brasil + LatAm + Europa",
+    "coverageTitle": "Cobertura IS",
+    "coverageServed": "Estados com atendimento:",
+    "legendBase": "Base",
+    "legendWork": "Obra",
+    "legendClient": "Cliente",
+    "legendIntl": "Internacional",
+    "intlNoteSuffix": "— documentação adaptada e compliance.",
+    "nextStepBadge": "Próximo passo",
+    "nextStepTitle": "Diga o local e o prazo — montamos o plano de ação.",
+    "nextStepText": "Você recebe um cronograma de mobilização com custos e SLAs.",
+    "btnBriefing": "Enviar briefing",
+    "btnWhatsApp": "WhatsApp",
+    "waText": "Olá, gostaria de avaliar atuação da IS nesta região: "
+  },
+
+  "contact": {
+    "hero": {
+      "eyebrow": "Entre em contato",
+      "title": "Vamos conversar, fale com a gente",
+      "lead": "Tem dúvidas ou feedback? Envie uma mensagem e respondemos em até 24 horas."
+    },
+    "form": {
+      "name": "Nome completo",
+      "namePh": "Seu nome",
+      "email": "E-mail",
+      "emailPh": "voce@empresa.com",
+      "message": "Mensagem",
+      "messagePh": "Nos conte como podemos ajudar",
+      "agreePrefix": "Eu concordo com a ",
+      "agreeLink": "política de privacidade",
+      "submit": "Enviar mensagem",
+      "sending": "Enviando…",
+      "ok": "Mensagem enviada com sucesso!",
+      "error": "Falha ao enviar. Tente novamente."
+    },
+    "cards": { "email": "E-mail", "phone": "Telefone" },
+    "map": { "title": "Como chegar", "open": "Abrir no Google Maps" },
+    "info": {
+      "email": "contato@isindustria.com.br",
+      "phone": "(41) 3033-0160",
+      "address": "IS Indústria - R. Francisco Alves de Lima, 52 - Costeira, São José dos Pinhais - PR, 83015-510"
+    }
+  },
+
+  "careers": {
+    "hero": {
+      "badge": "Trabalhe Conosco",
+      "title": "Construa energia limpa com a gente.",
+      "lead": "Time prático, seguro e colaborativo. Operamos com processos certificados (ISO 9001, ESG) e foco em desenvolvimento profissional.",
+      "btnJobs": "Ver vagas abertas",
+      "btnWhatsApp": "Falar no WhatsApp",
+      "whatsMsg": "Olá, gostaria de saber sobre as vagas da IS."
+    },
+    "perks": {
+      "badge": "Nosso jeito",
+      "title": "Segurança, performance e aprendizado contínuo",
+      "security": { "title": "Segurança em primeiro lugar", "desc": "Procedimentos, checklists e treinamentos. Trabalho em altura com responsabilidade." },
+      "agility": { "title": "Agilidade com método", "desc": "Planejamento claro, execução enxuta e registro de qualidade em cada etapa." },
+      "growth": { "title": "Crescimento real", "desc": "Trilhas, certificações e oportunidades para quem quer aprender fazendo." }
+    },
+    "jobs": {
+      "title": "Vagas em destaque",
+      "countLabel": "oportunidades",
+      "preview": "Prévia",
+      "apply": "Candidatar",
+      "empty": "Nenhuma vaga publicada no momento.",
+      "talent": {
+        "text": "Não encontrou sua área? Envie seu perfil para o <b>Banco de Talentos</b> e avise onde você se destaca.",
+        "cta": "Cadastrar currículo"
+      }
+    },
+    "form": {
+      "title": "Envie seu currículo",
+      "lead": "Ao enviar, abriremos seu e-mail com as informações preenchidas. Anexe o PDF do currículo no e-mail antes de enviar.",
+      "applyingPrefix": "Candidatando para:",
+      "namePh": "Seu nome",
+      "emailPh": "Seu e-mail",
+      "linkedinPh": "LinkedIn ou portfólio",
+      "messagePh": "Mensagem",
+      "filePh": "Selecione seu currículo (PDF)",
+      "fileSelected": "{{name}} ",
+      "submit": "Enviar",
+      "whatsapp": "WhatsApp",
+      "whatsMsg": "Olá, enviei meu currículo e gostaria de falar sobre as vagas.",
+      "sentBadge": "Mensagem enviada🎯"
+    },
+    "modal": {
+      "fallbackTitle": "Vaga",
+      "requirementsTitle": "Requisitos",
+      "applyCta": "Quero me candidatar"
+    },
+    "mail": {
+      "subjectApply": "Candidatura — {{title}}",
+      "subjectTalent": "Banco de Talentos — Candidatura",
+      "talentRole": "Banco de Talentos",
+      "noMessage": "(sem mensagem)",
+      "body": "Olá,%0A%0ASegue meu interesse para a vaga.%0A%0ANome: {{nome}}%0AE-mail: {{email}}%0ALinkedIn/Portfólio: {{linkedin}}%0AVaga: {{vaga}}%0A%0AMensagem:%0A{{msg}}%0A%0AObs.: Anexarei o currículo em PDF antes de enviar."
+    }
+  },
+
+  "compliance": {
+    "hero": {
+      "badge": "Compliance",
+      "title": "Canal de Compliance",
+      "lead": "Envie um relato de forma segura. Você pode enviar anonimamente."
+    },
+    "form": {
+      "subjectLabel": "Assunto *",
+      "subjectPh": "Ex: Conduta inadequada, fraude, assédio...",
+      "messageLabel": "Mensagem *",
+      "messagePh": "Descreva o ocorrido com detalhes (data, local, envolvidos, evidências...).",
+      "nameLabel": "Seu nome",
+      "namePh": "Anônimo",
+      "emailLabel": "Seu e-mail",
+      "emailPh": "Anônimo",
+      "optional": "(opcional)",
+      "anonymousNote": "Se preferir, deixe nome e e-mail em branco para manter o envio anônimo.",
+      "submit": "Enviar relato",
+      "sending": "Enviando…",
+      "ok": "Relato enviado com sucesso!",
+      "okWithProtocol": "Relato enviado com sucesso! Protocolo: {{protocol}}",
+      "error": "Falha ao enviar. Tente novamente."
+    }
+  }
+}

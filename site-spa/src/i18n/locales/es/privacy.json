@@ -1,0 +1,60 @@
+{
+  "badge": "Privacidad y Protección de Datos",
+  "title": "Política de Privacidad",
+  "lead": "Esta página explica cómo recopilamos, usamos y protegemos su información al utilizar nuestro sitio y formularios.",
+  "lastUpdateLabel": "Última actualización:",
+  "lastUpdateValue": "2026-02-24",
+  "scope": "Aplicable al sitio y formularios",
+  "contactEmail": "contato@isindustria.com.br",
+  "contactCta": "Contactar a la empresa",
+
+  "cards": {
+    "data": {
+      "title": "Qué datos recopilamos",
+      "text": "Recopilamos datos que usted proporciona voluntariamente en formularios (p. ej., nombre, correo, mensaje y adjuntos) y datos técnicos básicos (p. ej., navegador y páginas visitadas) para mejorar la experiencia."
+    },
+    "security": {
+      "title": "Cómo protegemos",
+      "text": "Aplicamos medidas técnicas y organizativas para proteger sus datos contra acceso no autorizado, alteración, divulgación o destrucción."
+    },
+    "rights": {
+      "title": "Sus derechos",
+      "text": "Puede solicitar confirmación de tratamiento, acceso, corrección, actualización o eliminación de datos cuando corresponda. También puede revocar consentimientos."
+    },
+    "contact": {
+      "title": "Contacto de privacidad",
+      "text": "Si tiene dudas o solicitudes sobre privacidad, contáctenos por el correo a continuación."
+    }
+  },
+
+  "details": {
+    "title": "Detalles del tratamiento",
+    "collect": {
+      "title": "Recopilación",
+      "i1": "Datos enviados en formularios (Contacto y Carreras).",
+      "i2": "Archivos adjuntos (p. ej., CV en PDF) cuando corresponda.",
+      "i3": "Datos técnicos mínimos para funcionamiento y seguridad."
+    },
+    "use": {
+      "title": "Finalidad",
+      "i1": "Responder mensajes y solicitudes enviadas por el sitio.",
+      "i2": "Procesar candidaturas y contactar candidatos.",
+      "i3": "Mantener seguridad, prevenir abusos y mejorar el servicio."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "p1": "Podemos usar cookies estrictamente necesarias y/o de rendimiento para mejorar la navegación. Puede administrarlas en su navegador."
+    },
+    "share": {
+      "title": "Compartir",
+      "p1": "No vendemos sus datos. Solo compartimos cuando es necesario para operar el servicio (p. ej., proveedores de correo) o por obligación legal."
+    }
+  },
+
+  "notice": {
+    "title": "Importante",
+    "text": "Esta política es un resumen informativo y puede actualizarse para reflejar mejoras, cambios legales u operativos."
+  },
+
+  "footerNote": "Al usar este sitio, usted acepta esta Política de Privacidad."
+}
