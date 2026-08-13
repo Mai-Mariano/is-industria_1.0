@@ -7,11 +7,6 @@ import {
 } from "lucide-react";
 import peca from "../image/empresa.jpg";
 import tr from "../image/empresa.png";
-import luiz from "../image/luiz.png";
-import lucas from "../image/lucas.png";
-import igor from "../image/igor.png";
-import everton from "../image/everton.png";
-import josue from "../image/josue.png";
 import videoRef from "../image/empresa.mov";
 import { useT, Tx } from "../i18n-helpers";
 
@@ -110,16 +105,6 @@ function Page() {
 
   const rawTimeline = t("timeline.items", { returnObjects: true });
   const timeline = Array.isArray(rawTimeline) ? rawTimeline : [];
-
-  const team = [
-    { name: "Igor Solotoriw",        roleKey: "team.roles.opsDirector",          photo: igor },
-    { name: "Luiz Felipe Moreira",   roleKey: "team.roles.fieldEngineerWind",    photo: luiz },
-    { name: "Lucas Alvieiro",        roleKey: "team.roles.paintCoordinator",     photo: lucas },
-    { name: "Everton Andrade",       roleKey: "team.roles.projectsPMO",          photo: everton },
-    { name: "Leandro Neves",         roleKey: "team.roles.certificationReports", photo: luiz },
-    { name: "Hanna Ziliotto",        roleKey: "team.roles.certificationReports1", photo: luiz },
-    { name: "Josué Benjamin",        roleKey: "team.roles.certificationReports2", photo: josue },
-  ];
 
   return (
     <div className="bg-white">
@@ -326,55 +311,11 @@ function Page() {
         </div>
       </section>
 
-      {/* ================= EQUIPE ================= */}
+      {/* ================= CULTURA ================= */}
       <section className="py-14 md:py-20">
         <div className="container">
-          <motion.div {...fadeUp()} className="mb-8">
-            <span className="inline-block rounded-full bg-lime-100 px-3 py-1 text-xs font-semibold text-lime-700">
-              {t("team.badge")}
-            </span>
-            <h3 className="mt-3 text-2xl font-extrabold tracking-tight md:text-4xl">{t("team.title")}</h3>
-            <p className="mt-2 max-w-2xl text-zinc-600">{t("team.desc")}</p>
-          </motion.div>
-
-          <div className="flex flex-wrap justify-center gap-x-10 gap-y-14">
-            {team.map((m, i) => (
-              <motion.div key={m.name} {...fadeUp(i * 0.03)} className="group flex flex-col items-center">
-                {/* Avatar redondo e nítido */}
-                <div className="relative mx-auto overflow-hidden rounded-full aspect-square w-[144px] md:w-[160px]">
-                  {/* fundo circular atrás da foto (não por cima) */}
-                  <div
-                    aria-hidden
-                    className="absolute inset-0 rounded-full bg-[radial-gradient(70%_70%_at_50%_35%,#1e90ff_0%,#0a5bc4_60%,#033a86_100%)]"
-                  />
-                  <img
-                    src={m.photo}
-                    srcSet={m.photo2x ? `${m.photo} 1x, ${m.photo2x} 2x` : undefined}
-                    sizes="(min-width:1024px) 160px, (min-width:768px) 144px, 144px"
-                    alt={m.name}
-                    onError={(e) => {
-                      e.currentTarget.src =
-                        "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=85&w=800&auto=format&fit=crop";
-                    }}
-                    className="
-                      relative z-10 block h-full w-full object-cover object-top
-                      [image-rendering:-webkit-optimize-contrast] [image-rendering:crisp-edges]
-                      contrast-[1.07] saturate-[1.06]
-                      transition-transform duration-300 will-change-transform group-hover:scale-[1.02]
-                    "
-                    loading="lazy"
-                    decoding="async"
-                  />
-                </div>
-
-                <p className="mt-3 text-sm font-semibold text-center">{m.name}</p>
-                <p className="text-xs text-zinc-600 text-center">{t(m.roleKey ?? "team.roles._missing")}</p>
-              </motion.div>
-            ))}
-          </div>
-
           {/* cultura/valores em glass */}
-          <div className="mt-10 grid gap-4 md:grid-cols-3">
+          <div className="grid gap-4 md:grid-cols-3">
             <div className="rounded-2xl bg-sky-50/70 p-5 text-sky-900 ring-1 ring-sky-100 backdrop-blur-sm">
               <Users className="size-5" />
               <p className="mt-2 text-sm font-semibold">{t("culture.safety.title")}</p>
