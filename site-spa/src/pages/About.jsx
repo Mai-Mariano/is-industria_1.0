@@ -7,7 +7,6 @@ import {
 } from "lucide-react";
 import peca from "../image/empresa.jpg";
 import tr from "../image/empresa.png";
-import joao from "../image/joao.png";
 import luiz from "../image/luiz.png";
 import lucas from "../image/lucas.png";
 import igor from "../image/igor.png";
@@ -114,7 +113,6 @@ function Page() {
 
   const team = [
     { name: "Igor Solotoriw",        roleKey: "team.roles.opsDirector",          photo: igor },
-    { name: "João Moreira",          roleKey: "team.roles.qualityEngineer",      photo: joao },
     { name: "Luiz Felipe Moreira",   roleKey: "team.roles.fieldEngineerWind",    photo: luiz },
     { name: "Lucas Alvieiro",        roleKey: "team.roles.paintCoordinator",     photo: lucas },
     { name: "Everton Andrade",       roleKey: "team.roles.projectsPMO",          photo: everton },

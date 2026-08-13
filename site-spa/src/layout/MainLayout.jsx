@@ -2,7 +2,6 @@
 import { Outlet } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import CTAWhatsApp from "../components/CTAWhatsApp";
 import CookieConsent from "../components/CookieConsent";
 
 
@@ -17,7 +16,6 @@ export default function MainLayout() {
       </main>
 
       <Footer />
-      <CTAWhatsApp />
       <CookieConsent />
     </div>
   );

@@ -1,6 +1,6 @@
 // src/pages/Mapa.jsx
 import React, { useRef, useState } from "react";
-import { Globe2, ShieldCheck, MapPin, PhoneCall } from "lucide-react";
+import { Globe2, ShieldCheck, MapPin } from "lucide-react";
 import { motion, useMotionValue, useSpring, useReducedMotion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import teste from "../image/mapa.png";
@@ -240,7 +240,6 @@ function BrazilMap({
 
 function Page() {
   const { t } = useTranslation();
-  const waMsg = encodeURIComponent(t("maps.waText"));
 
   return (
     <div className="bg-gradient-to-br from-sky-50 via-white to-white">
@@ -383,16 +382,6 @@ function Page() {
                            ring-4 ring-blue-200/50 transition-colors"
               >
                 {t("maps.btnBriefing")}
-              </a>
-              <a
-                href={`https://wa.me/554130330160?text=${waMsg}`}
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex items-center gap-2 rounded-full border border-zinc-300 bg-white px-4 py-2 text-sm font-semibold
-                           hover:bg-zinc-50 ring-4 ring-zinc-100 transition-colors"
-              >
-                <PhoneCall className="size-4" />
-                {t("maps.btnWhatsApp")}
               </a>
             </div>
           </motion.div>

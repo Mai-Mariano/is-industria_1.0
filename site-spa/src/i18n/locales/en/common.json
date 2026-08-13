@@ -255,9 +255,7 @@
     "nextStepBadge": "Next step",
     "nextStepTitle": "Tell us the location and deadline — we’ll build the action plan.",
     "nextStepText": "You’ll receive a mobilization schedule with costs and SLAs.",
-    "btnBriefing": "Send briefing",
-    "btnWhatsApp": "WhatsApp",
-    "waText": "Hello, I'd like to assess IS's coverage in this region: "
+    "btnBriefing": "Send briefing"
   },
 
   "contact": {
@@ -294,9 +292,7 @@
       "badge": "Careers",
       "title": "Build clean energy with us.",
       "lead": "Practical, safe and collaborative team. We operate with certified processes (ISO 9001/14001/45001) and a focus on professional growth.",
-      "btnJobs": "View open roles",
-      "btnWhatsApp": "Chat on WhatsApp",
-      "whatsMsg": "Hi, I'd like to learn about IS job openings."
+      "btnJobs": "View open roles"
     },
     "perks": {
       "badge": "Our way",
@@ -327,8 +323,6 @@
       "filePh": "Select your résumé (PDF)",
       "fileSelected": "{{name}} ",
       "submit": "Send",
-      "whatsapp": "WhatsApp",
-      "whatsMsg": "Hello, I’ve sent my résumé and would like to talk about the openings.",
       "sentBadge": "Message sent 🎯"
     },
     "modal": {

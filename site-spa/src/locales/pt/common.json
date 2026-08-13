@@ -293,9 +293,7 @@
     "nextStepBadge": "Próximo passo",
     "nextStepTitle": "Diga o local e o prazo — montamos o plano de ação.",
     "nextStepText": "Você recebe um cronograma de mobilização com custos e SLAs.",
-    "btnBriefing": "Enviar briefing",
-    "btnWhatsApp": "WhatsApp",
-    "waText": "Olá, gostaria de avaliar atuação da IS nesta região: "
+    "btnBriefing": "Enviar briefing"
   },
 
   "contact": {
@@ -332,9 +330,7 @@
       "badge": "Trabalhe Conosco",
       "title": "Construa energia limpa com a gente.",
       "lead": "Time prático, seguro e colaborativo. Operamos com processos certificados (ISO 9001, ESG) e foco em desenvolvimento profissional.",
-      "btnJobs": "Ver vagas abertas",
-      "btnWhatsApp": "Falar no WhatsApp",
-      "whatsMsg": "Olá, gostaria de saber sobre as vagas da IS."
+      "btnJobs": "Ver vagas abertas"
     },
     "perks": {
       "badge": "Nosso jeito",
@@ -365,8 +361,6 @@
       "filePh": "Selecione seu currículo (PDF)",
       "fileSelected": "{{name}} ",
       "submit": "Enviar",
-      "whatsapp": "WhatsApp",
-      "whatsMsg": "Olá, enviei meu currículo e gostaria de falar sobre as vagas.",
       "sentBadge": "Mensagem enviada🎯"
     },
     "modal": {

@@ -269,9 +269,7 @@
     "nextStepBadge": "Próximo paso",
     "nextStepTitle": "Indícanos la ubicación y el plazo — armamos el plan de acción.",
     "nextStepText": "Recibirás un cronograma de movilización con costos y SLAs.",
-    "btnBriefing": "Enviar briefing",
-    "btnWhatsApp": "WhatsApp",
-    "waText": "Hola, me gustaría evaluar la cobertura de IS en esta región: "
+    "btnBriefing": "Enviar briefing"
   },
 
   "contact": {
@@ -308,9 +306,7 @@
       "badge": "Empleos",
       "title": "Construye energía limpia con nosotros.",
       "lead": "Equipo práctico, seguro y colaborativo. Operamos con procesos certificados (ISO 9001/14001/45001) y enfoque en el crecimiento profesional.",
-      "btnJobs": "Ver vacantes abiertas",
-      "btnWhatsApp": "Hablar por WhatsApp",
-      "whatsMsg": "Hola, me gustaría saber sobre las vacantes de IS."
+      "btnJobs": "Ver vacantes abiertas"
     },
     "perks": {
       "badge": "Nuestro estilo",
@@ -341,8 +337,6 @@
       "filePh": "Selecciona tu currículum (PDF)",
       "fileSelected": "{{name}} ",
       "submit": "Enviar",
-      "whatsapp": "WhatsApp",
-      "whatsMsg": "Hola, envié mi currículum y me gustaría hablar sobre las vacantes.",
       "sentBadge": "Mensaje enviado 🎯"
     },
     "modal": {

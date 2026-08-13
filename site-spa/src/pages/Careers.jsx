@@ -2,9 +2,9 @@
 import { motion } from "framer-motion";
 import {
   ShieldCheck, Timer, Medal, ArrowRight, Briefcase, MapPin,
-  X, UploadCloud, Send, PhoneCall, CheckCircle2
+  X, UploadCloud, Send, CheckCircle2
 } from "lucide-react";
-import { useEffect, useRef, useState, useMemo } from "react";
+import { useEffect, useRef, useState } from "react";
 import peca from "../image/trabalhe.png";
 import { useT, Tx } from "../i18n-helpers";
 
@@ -178,9 +178,6 @@ function Page() {
     }
   };
 
-  const whatsHero = useMemo(() => `https://wa.me/554184944848?text=${encodeURIComponent(t("hero.whatsMsg"))}`, [t]);
-  const whatsForm = useMemo(() => `https://wa.me/554184944848?text=${encodeURIComponent(t("form.whatsMsg"))}`, [t]);
-
   return (
     <div className="bg-white">
       {/* ================= HERO ================= */}
@@ -206,9 +203,6 @@ function Page() {
             <div className="mt-6 flex flex-wrap gap-3">
               <a href="#vagas" className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-semibold text-zinc-900 shadow-md hover:bg-white/90">
                 {t("hero.btnJobs")} <ArrowRight className="size-4" />
-              </a>
-              <a href={whatsHero} target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-white/30 bg-white/10 px-5 py-3 text-sm font-semibold text-white hover:bg-white/15">
-                {t("hero.btnWhatsApp")}
               </a>
             </div>
           </div>
@@ -379,11 +373,6 @@ function Page() {
                   <Send className="size-4" />
                   {status === "sending" ? "Enviando..." : t("form.submit")}
                 </button>
-
-                <a href={whatsForm} target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-xl border border-zinc-300 bg-white px-4 py-3 font-semibold hover:bg-zinc-50">
-                  <PhoneCall className="size-4" />
-                  {t("form.whatsapp")}
-                </a>
               </div>
 
               {status === "ok" && (
